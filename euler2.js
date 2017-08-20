@@ -17,4 +17,4 @@ function fib(limit){
       sum += fib2;
     i = fib1 + fib2;    
   } return sum; 
-}
+} fib(4000000);
